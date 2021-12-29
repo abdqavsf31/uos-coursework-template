@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{5}{section.4}%
+\contentsline {section}{\numberline {2}Basics}{5}{section.5}%
+\contentsline {subsection}{\numberline {2.1}Figures}{5}{subsection.6}%
+\contentsline {subsection}{\numberline {2.2}Notation}{5}{subsection.8}%
+\contentsline {subsubsection}{\numberline {2.2.1}Equations}{5}{subsubsection.10}%
+\contentsline {subsection}{\numberline {2.3}Gaussian elimination}{7}{subsection.21}%
+\contentsline {section}{\numberline {3}Answer Template}{9}{section.26}%
