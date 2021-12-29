@@ -7,6 +7,13 @@ This is a LaTeX template suitable for an Engineering or Natural Science coursewo
 
 You could simpliy change the ./figures/UoSLogo.pdf to your university logo and modifiy it into your university's template.
 
+### File list
+- coursework.tex: the main file
+- includes.tex: included packages
+- notation.tex: quick notation add
+- titlepage.tex: the titlepage of the report
+- dsfont.sty, kpfonts.sty: external fonts
+
 ## Reference
 [1: Maths Coursework Template, Qiao Han, Creative Commons CC BY 4.0][1]
 
