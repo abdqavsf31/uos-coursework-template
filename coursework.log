@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.28)  29 DEC 2021 04:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.28)  1 JAN 2022 03:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/Maths Coursework Template/coursework.tex"
-(c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/Maths Coursework Template/coursework.tex
+**"c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/uos-coursework-template/coursework.tex"
+(c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/uos-coursework-template/coursework.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -1147,40 +1147,46 @@ File: ot1jkpss.fd 2007/07/16 Fontinst v1.928 font definitions for OT1/jkpss.
  [4]
 File: ./figures/UoSLogo.pdf Graphic file (type pdf)
 <use ./figures/UoSLogo.pdf>
-Package pdftex.def Info: ./figures/UoSLogo.pdf  used on input line 39.
+Package pdftex.def Info: ./figures/UoSLogo.pdf  used on input line 41.
 (pdftex.def)             Requested size: 306.71924pt x 129.79474pt.
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 49.
  (c:/texlive/2021/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 61.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 61.
-LaTeX Font Info:    Trying to load font information for U+dsrom on input line 65.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 63.
+LaTeX Font Info:    Trying to load font information for U+dsrom on input line 67.
  (c:/texlive/2021/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-) [5] [6] [7] [8]
-\tf@thm=\write8
-\openout8 = `coursework.thm'.
+) [5] [6] [7] [8] (./coursework.bbl (./coursework.brf)
+\tf@brf=\write8
+\openout8 = `coursework.brf'.
 
- [9] (./coursework.aux)
+ [9])
+\tf@thm=\write9
+\openout9 = `coursework.thm'.
+
+ [10] (./coursework.aux)
 Package rerunfilecheck Info: File `coursework.out' has not changed.
-(rerunfilecheck)             Checksum: 68A0EEB770C1F270028A2AC4A4A882B3;883.
+(rerunfilecheck)             Checksum: E07A67A44F9BAAA09D1CBA66965ADCCE;873.
+Package rerunfilecheck Info: File `coursework.brf' has not changed.
+(rerunfilecheck)             Checksum: 89E06D4E5ABFFDE45582260674C6F504;50.
  ) 
 Here is how much of TeX's memory you used:
- 28886 strings out of 478353
- 535192 string characters out of 5852100
- 830190 words of memory out of 5000000
- 46371 multiletter control sequences out of 15000+600000
+ 28911 strings out of 478353
+ 535639 string characters out of 5852100
+ 834232 words of memory out of 5000000
+ 46387 multiletter control sequences out of 15000+600000
  458567 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,15n,97p,632b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,15n,97p,630b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/doublestroke/dsrom12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpbmi.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
-Output written on coursework.pdf (9 pages, 140169 bytes).
+Output written on coursework.pdf (10 pages, 141138 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 69 named destinations out of 1000 (max. 500000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
+ 72 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

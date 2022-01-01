@@ -1,8 +1,8 @@
-PWD c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/Maths Coursework Template
+PWD c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/uos-coursework-template
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/Maths Coursework Template/coursework.tex
+INPUT c:/Users/Administrator/OneDrive - University of Southampton/Third year - 2021/IP/Software/05_Program/LaTeX/uos-coursework-template/coursework.tex
 OUTPUT coursework.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -837,7 +837,6 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT c:/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT c:/texlive/2021/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT c:/texlive/2021/texmf-dist/tex/latex/hyperref/backref.sty
 INPUT c:/texlive/2021/texmf-dist/tex/latex/hyperref/backref.sty
@@ -1421,10 +1420,22 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/kpfonts/jkpmn8r.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/public/kpfonts/jkpbn7t.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/kpfonts/jkpbne.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/kpfonts/jkpbn8r.tfm
+INPUT ./coursework.bbl
+INPUT coursework.bbl
+INPUT ./coursework.bbl
+INPUT coursework.bbl
+INPUT ./coursework.brf
+INPUT coursework.brf
+INPUT coursework.brf
+INPUT ./coursework.brf
+INPUT ./coursework.brf
+OUTPUT coursework.brf
 OUTPUT coursework.thm
 INPUT coursework.aux
 INPUT ./coursework.out
 INPUT ./coursework.out
+INPUT ./coursework.brf
+INPUT ./coursework.brf
 INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb
